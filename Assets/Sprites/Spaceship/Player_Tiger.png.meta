@@ -1,0 +1,2254 @@
+fileFormatVersion: 2
+guid: 16d9a0f5ae9f4e746b9376c971d42b65
+timeCreated: 1455628537
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_Tiger_0
+    21300002: Player_Tiger_1
+    21300004: Player_Tiger_2
+    21300006: Player_Tiger_3
+    21300008: Player_Tiger_4
+    21300010: Player_Tiger_5
+    21300012: Player_Tiger_6
+    21300014: Player_Tiger_7
+    21300016: Player_Tiger_8
+    21300018: Player_Tiger_9
+    21300020: Player_Tiger_10
+    21300022: Player_Tiger_11
+    21300024: Player_Tiger_12
+    21300026: Player_Tiger_13
+    21300028: Player_Tiger_14
+    21300030: Player_Tiger_15
+    21300032: Player_Tiger_16
+    21300034: Player_Tiger_17
+    21300036: Player_Tiger_18
+    21300038: Player_Tiger_19
+    21300040: Player_Tiger_20
+    21300042: Player_Tiger_21
+    21300044: Player_Tiger_22
+    21300046: Player_Tiger_23
+    21300048: Player_Tiger_24
+    21300050: Player_Tiger_25
+    21300052: Player_Tiger_26
+    21300054: Player_Tiger_27
+    21300056: Player_Tiger_28
+    21300058: Player_Tiger_29
+    21300060: Player_Tiger_30
+    21300062: Player_Tiger_31
+    21300064: Player_Tiger_32
+    21300066: Player_Tiger_33
+    21300068: Player_Tiger_34
+    21300070: Player_Tiger_35
+    21300072: Player_Tiger_36
+    21300074: Player_Tiger_37
+    21300076: Player_Tiger_38
+    21300078: Player_Tiger_39
+    21300080: Player_Tiger_40
+    21300082: Player_Tiger_41
+    21300084: Player_Tiger_42
+    21300086: Player_Tiger_43
+    21300088: Player_Tiger_44
+    21300090: Player_Tiger_45
+    21300092: Player_Tiger_46
+    21300094: Player_Tiger_47
+    21300096: Player_Tiger_48
+    21300098: Player_Tiger_49
+    21300100: Player_Tiger_50
+    21300102: Player_Tiger_51
+    21300104: Player_Tiger_52
+    21300106: Player_Tiger_53
+    21300108: Player_Tiger_54
+    21300110: Player_Tiger_55
+    21300112: Player_Tiger_56
+    21300114: Player_Tiger_57
+    21300116: Player_Tiger_58
+    21300118: Player_Tiger_59
+    21300120: Player_Tiger_60
+    21300122: Player_Tiger_61
+    21300124: Player_Tiger_62
+    21300126: Player_Tiger_63
+    21300128: Player_Tiger_64
+    21300130: Player_Tiger_65
+    21300132: Player_Tiger_66
+    21300134: Player_Tiger_67
+    21300136: Player_Tiger_68
+    21300138: Player_Tiger_69
+    21300140: Player_Tiger_70
+    21300142: Player_Tiger_71
+    21300144: Player_Tiger_72
+    21300146: Player_Tiger_73
+    21300148: Player_Tiger_74
+    21300150: Player_Tiger_75
+    21300152: Player_Tiger_76
+    21300154: Player_Tiger_77
+    21300156: Player_Tiger_78
+    21300158: Player_Tiger_79
+    21300160: Player_Tiger_80
+    21300162: Player_Tiger_81
+    21300164: Player_Tiger_82
+    21300166: Player_Tiger_83
+    21300168: Player_Tiger_84
+    21300170: Player_Tiger_85
+    21300172: Player_Tiger_86
+    21300174: Player_Tiger_87
+    21300176: Player_Tiger_88
+    21300178: Player_Tiger_89
+    21300180: Player_Tiger_90
+    21300182: Player_Tiger_91
+    21300184: Player_Tiger_92
+    21300186: Player_Tiger_93
+    21300188: Player_Tiger_94
+    21300190: Player_Tiger_95
+    21300192: Player_Tiger_96
+    21300194: Player_Tiger_97
+    21300196: Player_Tiger_98
+    21300198: Player_Tiger_99
+    21300200: Player_Tiger_100
+    21300202: Player_Tiger_101
+    21300204: Player_Tiger_102
+    21300206: Player_Tiger_103
+    21300208: Player_Tiger_104
+    21300210: Player_Tiger_105
+    21300212: Player_Tiger_106
+    21300214: Player_Tiger_107
+    21300216: Player_Tiger_108
+    21300218: Player_Tiger_109
+    21300220: Player_Tiger_110
+    21300222: Player_Tiger_111
+    21300224: Player_Tiger_112
+    21300226: Player_Tiger_113
+    21300228: Player_Tiger_114
+    21300230: Player_Tiger_115
+    21300232: Player_Tiger_116
+    21300234: Player_Tiger_117
+    21300236: Player_Tiger_118
+    21300238: Player_Tiger_119
+    21300240: Player_Tiger_120
+    21300242: Player_Tiger_121
+    21300244: Player_Tiger_122
+    21300246: Player_Tiger_123
+    21300248: Player_Tiger_124
+    21300250: Player_Tiger_125
+    21300252: Player_Tiger_126
+    21300254: Player_Tiger_127
+    21300256: Player_Tiger_128
+    21300258: Player_Tiger_129
+    21300260: Player_Tiger_130
+    21300262: Player_Tiger_131
+    21300264: Player_Tiger_132
+    21300266: Player_Tiger_133
+    21300268: Player_Tiger_134
+    21300270: Player_Tiger_135
+    21300272: Player_Tiger_136
+    21300274: Player_Tiger_137
+    21300276: Player_Tiger_138
+    21300278: Player_Tiger_139
+    21300280: Player_Tiger_140
+    21300282: Player_Tiger_141
+    21300284: Player_Tiger_142
+    21300286: Player_Tiger_143
+    21300288: Player_Tiger_144
+    21300290: Player_Tiger_145
+    21300292: Player_Tiger_146
+    21300294: Player_Tiger_147
+    21300296: Player_Tiger_148
+    21300298: Player_Tiger_149
+    21300300: Player_Tiger_150
+    21300302: Player_Tiger_151
+    21300304: Player_Tiger_152
+    21300306: Player_Tiger_153
+    21300308: Player_Tiger_154
+    21300310: Player_Tiger_155
+    21300312: Player_Tiger_156
+    21300314: Player_Tiger_157
+    21300316: Player_Tiger_158
+    21300318: Player_Tiger_159
+    21300320: Player_Tiger_160
+    21300322: Player_Tiger_161
+    21300324: Player_Tiger_162
+    21300326: Player_Tiger_163
+    21300328: Player_Tiger_164
+    21300330: Player_Tiger_165
+    21300332: Player_Tiger_166
+    21300334: Player_Tiger_167
+    21300336: Player_Tiger_168
+    21300338: Player_Tiger_169
+    21300340: Player_Tiger_170
+    21300342: Player_Tiger_171
+    21300344: Player_Tiger_172
+    21300346: Player_Tiger_173
+    21300348: Player_Tiger_174
+    21300350: Player_Tiger_175
+    21300352: Player_Tiger_176
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player_Tiger_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 444
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 461
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 461
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 461
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 461
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 457
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 455
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16.5}
+        - {x: -19, y: -0.5}
+        - {x: -19, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 16.5}
+    - name: Player_Tiger_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 453
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16.5}
+        - {x: -19, y: 4.5}
+        - {x: -19, y: -13.5}
+        - {x: -11, y: -16.5}
+        - {x: 10, y: -16.5}
+        - {x: 19, y: -14.5}
+        - {x: 19, y: 15.5}
+        - {x: 14, y: 16.5}
+    - name: Player_Tiger_8
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 470
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 448
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 412
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16.5}
+        - {x: -19, y: 4.5}
+        - {x: -19, y: -13.5}
+        - {x: -11, y: -16.5}
+        - {x: 10, y: -16.5}
+        - {x: 19, y: -14.5}
+        - {x: 19, y: 15.5}
+        - {x: 14, y: 16.5}
+    - name: Player_Tiger_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 413
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 16.5}
+        - {x: -9, y: 16.5}
+        - {x: -19, y: 4.5}
+        - {x: -19, y: -13.5}
+        - {x: -17, y: -16.5}
+        - {x: 19, y: -16.5}
+        - {x: 19, y: 9.5}
+        - {x: 15, y: 12.5}
+    - name: Player_Tiger_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 413
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -19, y: 10}
+        - {x: -19, y: -15}
+        - {x: -16, y: -16}
+        - {x: 19, y: -16}
+        - {x: 19, y: 16}
+    - name: Player_Tiger_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 413
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -19, y: 5}
+        - {x: -19, y: -16}
+        - {x: 19, y: -16}
+        - {x: 19, y: 15}
+        - {x: 16, y: 16}
+    - name: Player_Tiger_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 412
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -19, y: 6}
+        - {x: -19, y: -12}
+        - {x: -13, y: -17}
+        - {x: 19, y: -17}
+        - {x: 19, y: 13}
+        - {x: 7, y: 17}
+    - name: Player_Tiger_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 412
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -19, y: 1.5}
+        - {x: -19, y: -12.5}
+        - {x: -13, y: -17.5}
+        - {x: 19, y: -17.5}
+        - {x: 19, y: 13.5}
+        - {x: 4, y: 17.5}
+    - name: Player_Tiger_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 422
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_17
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 429
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 382
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 385
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 381
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 379
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_22
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 381
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_23
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 385
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 384
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 384
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_26
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 385
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_27
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 382
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 381
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 340
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 352
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 349
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 350
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 348
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_34
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 349
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 349
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 350
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 350
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_38
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 350
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 317
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 317
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 299
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 316
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 317
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 318
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_45
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 317
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_46
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 317
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_47
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 316
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_48
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 316
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_49
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 316
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_50
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 316
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 267
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 280
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 283
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_54
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 286
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 286
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 286
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_57
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 286
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_58
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 286
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 286
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_60
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 286
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 253
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_62
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 239
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 18.5}
+        - {x: -13.5, y: 17.5}
+        - {x: -18.5, y: 16.5}
+        - {x: -18.5, y: -11.5}
+        - {x: -6.5, y: -18.5}
+        - {x: 11.5, y: -18.5}
+        - {x: 18.5, y: -0.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 11.5, y: 18.5}
+    - name: Player_Tiger_63
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 250
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 257
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 255
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_66
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 254
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 254
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_68
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 254
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_69
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 255
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_70
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 254
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_71
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 266
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_72
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 244
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_73
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_74
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 234
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 217
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_76
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 228
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_77
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 233
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_78
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 234
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_80
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 234
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_81
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 234
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_82
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 234
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_83
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 234
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_84
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_85
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 180
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 25}
+        - {x: -15.5, y: 22}
+        - {x: -21.5, y: 14}
+        - {x: -21.5, y: -19}
+        - {x: 2.5, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 21.5, y: -15}
+        - {x: 21.5, y: 16}
+        - {x: 18.5, y: 25}
+    - name: Player_Tiger_86
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 208
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_87
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 226
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_88
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_89
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 225
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_90
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 225
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_91
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 226
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_92
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 225
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_93
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 225
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_94
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_95
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 185
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_96
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 201
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_97
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 185
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_98
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 202
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_99
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 200
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_100
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 189
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_101
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 190
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_102
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 190
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_103
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 190
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_104
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 190
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_105
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 190
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_106
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 190
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_107
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 172
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_108
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 193
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_109
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 168
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_110
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 151
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_111
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 168
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_112
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 167
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_113
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 157
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_114
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 157
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_115
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 156
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_116
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 157
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_117
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 155
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_118
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 157
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_119
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 156
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_120
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 159
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_121
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 123
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_122
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 125
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_123
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 134
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_124
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 136
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_125
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 119
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 132
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_127
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 134
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_128
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 124
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_129
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 124
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_130
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 123
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_131
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 124
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_132
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 122
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_133
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 122
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_134
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 123
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_135
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 127
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_136
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 101
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_137
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 100
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_138
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 87
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_139
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 95
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_140
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 101
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_141
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 91
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_142
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 91
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_143
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 89
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_144
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 90
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_145
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 89
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_146
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 90
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_147
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 89
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_148
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 70
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_149
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 94
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_150
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_151
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_152
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 52
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_154
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 52
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_155
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_156
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 58
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_157
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 56
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_158
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 56
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_159
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 57
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_160
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 56
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_161
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 56
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_162
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 56
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_163
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_164
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_165
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 35
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_166
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 28
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_167
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 19
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_168
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 19
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_169
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 25
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_170
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 25
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_171
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 23
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_172
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 23
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_173
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 23
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_174
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 8
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_175
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Player_Tiger_176
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
