@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerMobility : MonoBehaviour {
+public class PlayerMobility2 : MonoBehaviour {
 
 	public float speed;
 
@@ -16,6 +16,10 @@ public class PlayerMobility : MonoBehaviour {
 
 		float input = Input.GetAxis ("Vertical");
 		GetComponent<Rigidbody2D>().AddForce (gameObject.transform.up * speed * input);
+
+		float input2 = Input.GetAxis ("Horizontal");
+		GetComponent<Rigidbody2D>().AddForce (gameObject.transform.right * speed * input);
+
 	}
 
 }
