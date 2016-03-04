@@ -46,7 +46,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\ExplosionScript.cs" />
+     <Compile Include="Assets\Scripts\Fade.cs" />
+     <Compile Include="Assets\Scripts\NextLevel.cs" />
      <Compile Include="Assets\Scripts\PlayerMobility.cs" />
+     <Compile Include="Assets\Scripts\PlayerMobility2.cs" />
+     <Compile Include="Assets\Scripts\SwordScript.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />

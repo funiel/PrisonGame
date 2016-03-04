@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerMobility.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NextLevel.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerMobility.cs" Line="17" Column="31" />
+      <File FileName="Assets\Scripts\Fade.cs" Line="18" Column="81" />
+      <File FileName="Assets\Scripts\NextLevel.cs" Line="14" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

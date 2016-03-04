@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerMobility2 : MonoBehaviour {
+public class PlayerMobility : MonoBehaviour {
 
 	public float speed;
 	Animator anim;
