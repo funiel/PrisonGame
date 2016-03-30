@@ -15,8 +15,9 @@ public class Enemy : MonoBehaviour {
 		GetComponent<Rigidbody2D>().AddForce (gameObject.transform.up * speed);
 	}
 
-	void OnCollisionEnter(Collision other){
+	void OnCollisionEnter2D(Collision2D other){
 		if (other.gameObject.name == "Player") {
+            Debug.Log("Hit Player");
 			SceneManager.LoadScene ("PrisonGame");
 		}
 	}
