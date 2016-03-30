@@ -46,4 +46,5 @@ public class PlayerMobility2 : MonoBehaviour {
 			GetComponent<Rigidbody2D>().AddForce(Vector2.right * speed);
 		}
 	}
+
 }

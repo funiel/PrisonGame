@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Enemy : MonoBehaviour {
 
@@ -13,4 +14,11 @@ public class Enemy : MonoBehaviour {
 
 		GetComponent<Rigidbody2D>().AddForce (gameObject.transform.up * speed);
 	}
+
+	void OnCollisionEnter(Collision other){
+		if (other.gameObject.name == "Player") {
+			SceneManager.LoadScene ("PrisonGame");
+		}
+	}
+
 }
