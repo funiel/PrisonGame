@@ -1,7 +1,6 @@
 ﻿#pragma strict
 
 var cameraTarget : GameObject;
-var player : GameObject;
 
 var smoothTime : float = 1;
 var cameraFollowX : boolean = true;
@@ -29,7 +28,7 @@ if (cameraFollowY)
   thisTransform.position.y = Mathf.SmoothDamp (thisTransform.position.y, cameraTarget.transform.position.y, velocity.y, smoothTime);
 }
 
-if (!cameraFollowX & cameraFollowHeight)
+if (cameraFollowX & cameraFollowHeight)
 {
   GetComponent.<Camera>().transform.position.y = cameraHeight;
 }
