@@ -13,6 +13,7 @@ public class Enemy : MonoBehaviour {
 		transform.eulerAngles = new Vector3 (0, 0, z);
 
 		GetComponent<Rigidbody2D>().AddForce (gameObject.transform.up * speed);
+	
 	}
 
 	void OnCollisionEnter2D(Collision2D other){
