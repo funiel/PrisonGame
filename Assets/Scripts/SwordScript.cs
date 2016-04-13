@@ -12,11 +12,11 @@ public class SwordScript : MonoBehaviour {
 		Destroy (other.gameObject);
 	}
 
-	void Update() {
-	
-		if (Input.GetMouseButtonDown (1)) {
-			GameObject go = (GameObject)Instantiate(weapon);
-		}
-	}
+	//void Update() {
+	//
+	//	if (Input.GetMouseButtonDown (1)) {
+	//		GameObject go = (GameObject)Instantiate(weapon);
+	//	}
+	//}
 
 }

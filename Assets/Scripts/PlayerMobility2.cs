@@ -4,13 +4,13 @@ using System.Collections;
 public class PlayerMobility2 : MonoBehaviour {
 
 	public float speed;
-	Animator anim;
 
-	void Start()
-	{
+	Animator anim; 
+
+	void Start () {
 		anim = GetComponent<Animator> ();
 	}
-		
+
 
 	void FixedUpdate()
 	{
@@ -26,25 +26,36 @@ public class PlayerMobility2 : MonoBehaviour {
 
 	void Update() {
 
-		if (Input.GetMouseButtonDown (0)) {
-			anim.SetTrigger ("Attack");
-		}
+	
 
 		if(Input.GetKey(KeyCode.W)) {
 			GetComponent<Rigidbody2D>().AddForce(Vector2.up * speed);
+			anim.SetBool ("Feet", true);
+
 		}
 
 		if(Input.GetKey(KeyCode.A)) {
 			GetComponent<Rigidbody2D>().AddForce(-Vector2.right * speed);
+			anim.SetBool ("Feet", true);
+
+
 		}
 
 		if(Input.GetKey(KeyCode.S)) {
 			GetComponent<Rigidbody2D>().AddForce(-Vector2.up * speed);
+			anim.SetBool ("Feet", true);
+
+
 		}
 
 		if(Input.GetKey(KeyCode.D)) {
 			GetComponent<Rigidbody2D>().AddForce(Vector2.right * speed);
+			anim.SetBool ("Feet", true);
+			//anim.SetBool ("Feet", false);
+
 		}
 	}
+
+
 
 }

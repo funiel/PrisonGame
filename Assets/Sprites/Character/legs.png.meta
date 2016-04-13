@@ -1,23 +1,21 @@
 fileFormatVersion: 2
-guid: b175e5d63e55930468927d07481e4dbd
-timeCreated: 1459776297
+guid: 830430f71dc8c3f459f9cac54c6b879d
+timeCreated: 1460551205
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: enemy_1_0
-    21300002: enemy_1_1
-    21300004: enemy_1_2
-    21300006: enemy_1_3
-    21300008: enemy_1_4
-    21300010: enemy_1_5
-    21300012: enemy_1_6
-    21300014: enemy_1_7
-    21300016: enemy_1_8
-    21300018: enemy_1_9
-    21300020: enemy_1_10
-    21300022: enemy_1_11
-    21300024: enemy_1_12
-    21300026: enemy_1_13
+    21300000: legs_0
+    21300002: legs_1
+    21300004: legs_3
+    21300006: legs_4
+    21300008: legs_8
+    21300010: legs_10
+    21300012: legs_11
+    21300014: legs_13
+    21300016: legs_14
+    21300018: legs_15
+    21300020: legs_2
+    21300022: legs_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -64,156 +62,134 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: enemy_1_0
+    - name: legs_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 126
-        width: 19
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_1
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 125
-        width: 19
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_2
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 124
-        width: 19
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_3
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 123
-        width: 19
+        x: 31
+        y: 46
+        width: 10
         height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 3
+      pivot: {x: 1, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: enemy_1_4
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 124
-        width: 19
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 102
-        width: 19
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_6
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 103
-        width: 19
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_7
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 102
-        width: 19
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_8
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 101
-        width: 19
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_9
-      rect:
-        serializedVersion: 2
-        x: 116
-        y: 100
-        width: 19
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 78
-        width: 19
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_11
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 79
-        width: 19
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-    - name: enemy_1_12
+    - name: legs_1
       rect:
         serializedVersion: 2
         x: 60
-        y: 62
-        width: 19
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 46
+        width: 10
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: enemy_1_13
+    - name: legs_3
       rect:
         serializedVersion: 2
-        x: 56
-        y: 96
-        width: 3
-        height: 3
+        x: 89
+        y: 46
+        width: 10
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: legs_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 46
+        width: 10
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: legs_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 10
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: legs_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 23
+        width: 10
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: legs_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 23
+        width: 10
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: legs_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 23
+        width: 10
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: legs_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: legs_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 10
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: legs_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 23
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: legs_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 46
+        width: 10
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
