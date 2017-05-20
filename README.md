@@ -3,7 +3,7 @@ This is probably gonna be a game about some prisoner....
 
 Made in Unity
 
-by Daniel Wetzelhütter, Max Wolschlager, Robert Miller
+by Funiel, Meksimus, Robert Miller
 
 #Only made for educational purposes!
 
